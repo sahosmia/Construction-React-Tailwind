@@ -3,7 +3,7 @@ function Footer() {
   return (
     <div
       className="text-white relative py-16 bg-cover bg-no-repeat bg-center after:absolute after:w-full after:h-full after:top-0 after:left-0 after:bg-black after:bg-opacity-80 after:-z-10 z-10"
-      style={{ backgroundImage: "url(/src/assets/footer-bg.jpg)" }}
+      style={{ backgroundImage: "url(/assets/footer-bg.jpg)" }}
     >
       <div className="container grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 md:gap-6">
         <div>
