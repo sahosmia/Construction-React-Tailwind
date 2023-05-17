@@ -14,17 +14,17 @@ import Header from "./layouts/Header";
 function App() {
   const sliders = [
     {
-      img: "/src/assets/hero/hero-1.jpg",
+      img: "/assets/hero/hero-1.jpg",
       title: "Welcome to Construction",
       mainTitle: "We Are Best Builders In The World",
     },
     {
-      img: "/src/assets/hero/hero-2.jpg",
+      img: "/assets/hero/hero-2.jpg",
       title: "Bulding & Construction",
       mainTitle: "Best Soluition For Construction",
     },
     {
-      img: "/src/assets/hero/hero-3.jpg",
+      img: "/assets/hero/hero-3.jpg",
       title: "Hard Work for your Dream",
       mainTitle: "We Building For Dream House",
     },
