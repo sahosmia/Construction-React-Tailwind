@@ -50,7 +50,7 @@ function Counter() {
   return (
     <div
       className="relative bg-cover bg-no-repeat bg-center py-16 after:absolute after:w-full after:h-full after:top-0 after:left-0 after:bg-black after:bg-opacity-80 after:-z-10 z-10"
-      style={{ backgroundImage: "url(/src/assets/counter.jpg)" }}
+      style={{ backgroundImage: "url(/assets/counter.jpg)" }}
     >
       <div className="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 ">
         {counters.map((counter, i) => (

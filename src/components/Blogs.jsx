@@ -4,32 +4,32 @@ import Blog from "./short/Blog";
 function Blogs() {
   const blogs = [
     {
-      img: "/src/assets/blog/project-12.jpg",
+      img: "/assets/blog/project-12.jpg",
       title: "This is a good title",
       des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo vel sit nostrum laborum ut quod animi vitae veritatis porro dolorem",
     },
     {
-      img: "/src/assets/blog/project-2.jpg",
+      img: "/assets/blog/project-2.jpg",
       title: "This is a good title",
       des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo vel sit nostrum laborum ut quod animi vitae veritatis porro dolorem",
     },
     {
-      img: "/src/assets/blog/project-6.jpg",
+      img: "/assets/blog/project-6.jpg",
       title: "This is a good title",
       des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo vel sit nostrum laborum ut quod animi vitae veritatis porro dolorem",
     },
     {
-      img: "/src/assets/blog/project-7.jpg",
+      img: "/assets/blog/project-7.jpg",
       title: "This is a good title",
       des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo vel sit nostrum laborum ut quod animi vitae veritatis porro dolorem",
     },
     {
-      img: "/src/assets/blog/project-8.jpg",
+      img: "/assets/blog/project-8.jpg",
       title: "This is a good title",
       des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo vel sit nostrum laborum ut quod animi vitae veritatis porro dolorem",
     },
     {
-      img: "/src/assets/blog/project-9.jpg",
+      img: "/assets/blog/project-9.jpg",
       title: "Kaouwa has expert doctors. ",
       des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo vel sit nostrum laborum ut quod animi vitae veritatis porro dolorem",
     },

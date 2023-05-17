@@ -9,7 +9,7 @@ function Header() {
         <nav className="container flex justify-between items-center py-5">
           <div>
             <a href="#" className="text-white text-xl font-semibold">
-              <img className="w-3/5 lg:w-full" src="/src/assets/logo-dark.png" alt="Logo" />
+              <img className="w-3/5 lg:w-full" src="/assets/logo-dark.png" alt="Logo" />
             </a>
           </div>
           <div className="hidden md:flex">

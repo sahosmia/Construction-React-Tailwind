@@ -4,25 +4,25 @@ import Team from "./short/Team";
 function Teams() {
   const teams = [
     {
-      img: "/src/assets/team/team-1.jpg",
+      img: "/assets/team/team-1.jpg",
       alt: "team1",
       name: "Alex Kapur",
       title: "Home Decoration",
     },
     {
-      img: "/src/assets/team/team-2.jpg",
+      img: "/assets/team/team-2.jpg",
       alt: "team2",
       name: "Lagsid Rudwey",
       title: "Bulding Designer",
     },
     {
-      img: "/src/assets/team/team-3.jpg",
+      img: "/assets/team/team-3.jpg",
       alt: "team3",
       name: "Samex Kids",
       title: "Civil Engineer",
     },
     {
-      img: "/src/assets/team/team-4.jpg",
+      img: "/assets/team/team-4.jpg",
       alt: "team4",
       name: "Alex Kapur",
       title: "Quality Manager",

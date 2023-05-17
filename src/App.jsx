@@ -29,12 +29,31 @@ function App() {
       mainTitle: "We Building For Dream House",
     },
   ];
+
+  const about = {
+    aboutTitle1: "50 Years Experience",
+    aboutDes1: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime
+              illum cumque commodi vero unde recusandae quia molestias quos
+              enim, exercitationem nobis culpa. Sunt dicta iste aliquam cum, hic
+              delectus eum, quos expedita, facilis est impedit odit? Illo
+              consequuntur saepe ad placeat consectetur sed debitis modi dolor
+              natus quas, magnam asperiores.`,
+    aboutImg1: "/assets/about-1.jpg",
+    aboutTitle2: "Client is alawys happy",
+    aboutDes2: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime
+              illum cumque commodi vero unde recusandae quia molestias quos
+              enim, exercitationem nobis culpa. Sunt dicta iste aliquam cum, hic
+              delectus eum, quos expedita, facilis est impedit odit? Illo
+              consequuntur saepe ad placeat consectetur sed debitis modi dolor
+              natus quas, magnam asperiores.`,
+    aboutImg2: "/assets/about-2.jpg",
+  };
   return (
     <>
       <Header />
       <Hero sliders={sliders} />
       <Target />
-      <About />
+      <About about={about} />
       <Services />
       <Projects />
       <Teams />
