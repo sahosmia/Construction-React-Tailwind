@@ -4,25 +4,25 @@ import Project from './short/Project';
 function Projects() {
     const projects = [
       {
-        img: "/assets/project/ (1).jpg",
-        alt: "team1",
+        img: "/assets/project/(1).jpg",
+        alt: "Project 1",
         name: "Duplex Home",
         location: "Sedny",
       },
       {
-        img: "/assets/project/ (2).jpg",
+        img: "/assets/project/(2).jpg",
         alt: "Project2",
         name: "Road Construction",
         location: "New Work",
       },
       {
-        img: "/assets/project/ (3).jpg",
+        img: "/assets/project/(3).jpg",
         alt: "Project3",
         name: "School Bulding",
        location: "Malborn",
       },
       {
-        img: "/assets/project/ (4).jpg",
+        img: "/assets/project/(4).jpg",
         alt: "Project4",
         name: "Road Construction",
         location: "New Work",
